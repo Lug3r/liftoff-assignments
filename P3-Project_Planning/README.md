@@ -12,9 +12,9 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Project Tracker
 
-https://trello.com/b/J0XazV3V/the-gaming-network
+https://trello.com/b/J0XazV3V
 
 
 ### Project Repo Link
 
-https://github.com/Lug3r/cheese-mvc-persistent.git
+https://github.com/Lug3r/The-Gaming-Network.git
