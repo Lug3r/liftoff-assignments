@@ -13,6 +13,6 @@ https://github.com/Lug3r
 https://www.linkedin.com/in/cameron-mccloud-a63943a3/
 
 ### Resume
-file:///C:/Users/G3RM4N%20LUG3R/Documents/cmccloud_resume.pdf
+
 
 > *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository talk with your Mentor about an alternate way to submit this assignment.
